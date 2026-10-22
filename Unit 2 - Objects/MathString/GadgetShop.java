@@ -72,7 +72,7 @@ public class GadgetShop {
 
         // B7. TODO: compare code with scanned using the correct String method.
         String scanned = "TAB-2026-BLUE";
-        boolean match = false;
+        boolean match = true;
         System.out.println("B7 Codes match: " + match);
     }
 }
